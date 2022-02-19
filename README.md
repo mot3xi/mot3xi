@@ -1,6 +1,7 @@
 <p align="center">
   <a href="http://wwwwwwwww.jodi.org/" target="_blank">
-  <img src="https://media.giphy.com/media/l3fQ6cJNjaXEg9ZHG/giphy.gif" alt="666"/>
+  <img src="https://media.giphy.com/media/FlWpltZ9OOcUg/giphy.gif" alt="666"/>
+  <img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif" alt="666"/> 
   </a>
 </p>
 
